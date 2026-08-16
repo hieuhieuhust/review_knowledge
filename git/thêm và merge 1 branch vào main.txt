@@ -1,0 +1,26 @@
+# Xem commit cũ
+git log --oneline
+
+# Tạo branch từ commit A
+git checkout -b new-branch <hash_commit_A>
+
+# Sửa code / tạo file
+# ví dụ tạo testhoi.txt
+
+# Kiểm tra thay đổi
+git status
+
+# Đưa vào staging
+git add .
+
+# Tạo commit
+git commit -m "add test file"
+
+# Chuyển về main
+git switch main
+
+# Merge branch vào main
+git merge new-branch
+
+# Đẩy lên GitHub
+git push origin main
