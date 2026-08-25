@@ -1,0 +1,61 @@
+2026-08-23 23:13:33.909 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:14:10.581 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:15:15.827 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:15:33.531 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:17:58.375 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:18:46.225 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:19:38.856 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:19:39.826 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:19:40.060 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:19:40.288 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:19:40.421 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:19:40.565 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:19:40.938 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:19:41.095 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:19:41.271 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:19:41.467 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:19:41.613 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:19:41.908 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:19:42.663 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:19:43.343 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:19:43.747 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:19:44.026 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:20:34.612 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:20:45.502 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:23:14.818 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:23:29.449 | SUCCESS  | pytorch_engine:__init__:53 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-23 23:37:26.264 | INFO     | pytorch_engine:wrapper:26 - bắt đầu hàm compute_similarity trên thiết bị: CPU
+2026-08-23 23:37:26.280 | INFO     | pytorch_engine:wrapper:31 - hàm compute_similarity hoàn thành trong 0.015784 giây
+2026-08-23 23:37:50.592 | INFO     | pytorch_engine:wrapper:26 - bắt đầu hàm compute_similarity trên thiết bị: CPU
+2026-08-23 23:37:50.596 | INFO     | pytorch_engine:wrapper:31 - hàm compute_similarity hoàn thành trong 0.003959 giây
+2026-08-23 23:37:54.299 | INFO     | pytorch_engine:wrapper:26 - bắt đầu hàm compute_similarity trên thiết bị: CPU
+2026-08-23 23:37:54.300 | INFO     | pytorch_engine:wrapper:31 - hàm compute_similarity hoàn thành trong 0.001669 giây
+2026-08-23 23:38:01.321 | INFO     | pytorch_engine:wrapper:26 - bắt đầu hàm compute_similarity trên thiết bị: CPU
+2026-08-23 23:38:01.324 | INFO     | pytorch_engine:wrapper:31 - hàm compute_similarity hoàn thành trong 0.002907 giây
+2026-08-23 23:38:18.985 | INFO     | pytorch_engine:wrapper:26 - bắt đầu hàm compute_similarity trên thiết bị: CPU
+2026-08-23 23:38:18.988 | INFO     | pytorch_engine:wrapper:31 - hàm compute_similarity hoàn thành trong 0.002920 giây
+2026-08-24 14:36:03.615 | SUCCESS  | pytorch_engine:__init__:52 - khỏi tạo pytorch engine thành công trên: cpu
+2026-08-24 14:36:31.555 | INFO     | pytorch_engine:wrapper:25 - bắt đầu hàm compute_similarity trên thiết bị: CPU
+2026-08-24 14:36:31.564 | INFO     | pytorch_engine:wrapper:30 - hàm compute_similarity hoàn thành trong 0.008897 giây
+2026-08-24 15:10:50.531 | INFO     | pytorch_engine:wrapper:25 - bắt đầu hàm compute_similarity trên thiết bị: CPU
+2026-08-24 15:10:50.537 | INFO     | pytorch_engine:wrapper:30 - hàm compute_similarity hoàn thành trong 0.006865 giây
+2026-08-24 15:11:14.414 | INFO     | pytorch_engine:wrapper:25 - bắt đầu hàm compute_similarity trên thiết bị: CPU
+2026-08-24 15:11:14.416 | INFO     | pytorch_engine:wrapper:30 - hàm compute_similarity hoàn thành trong 0.001840 giây
+2026-08-24 15:11:31.493 | INFO     | pytorch_engine:wrapper:25 - bắt đầu hàm compute_similarity trên thiết bị: CPU
+2026-08-24 15:11:31.496 | INFO     | pytorch_engine:wrapper:30 - hàm compute_similarity hoàn thành trong 0.002559 giây
+2026-08-24 15:13:57.057 | INFO     | pytorch_engine:wrapper:25 - bắt đầu hàm compute_similarity trên thiết bị: CPU
+2026-08-24 15:13:57.058 | INFO     | pytorch_engine:wrapper:30 - hàm compute_similarity hoàn thành trong 0.001240 giây
+2026-08-24 15:14:49.850 | INFO     | pytorch_engine:wrapper:25 - bắt đầu hàm compute_similarity trên thiết bị: CPU
+2026-08-24 15:14:49.853 | INFO     | pytorch_engine:wrapper:30 - hàm compute_similarity hoàn thành trong 0.002778 giây
+2026-08-24 15:16:41.845 | INFO     | pytorch_engine:wrapper:25 - bắt đầu hàm compute_similarity trên thiết bị: CPU
+2026-08-24 15:16:41.847 | INFO     | pytorch_engine:wrapper:30 - hàm compute_similarity hoàn thành trong 0.001392 giây
+2026-08-24 15:20:05.870 | INFO     | pytorch_engine:wrapper:25 - bắt đầu hàm compute_similarity trên thiết bị: CPU
+2026-08-24 15:20:05.873 | INFO     | pytorch_engine:wrapper:30 - hàm compute_similarity hoàn thành trong 0.002934 giây
+2026-08-24 15:20:27.950 | INFO     | pytorch_engine:wrapper:25 - bắt đầu hàm compute_similarity trên thiết bị: CPU
+2026-08-24 15:20:27.953 | INFO     | pytorch_engine:wrapper:30 - hàm compute_similarity hoàn thành trong 0.002411 giây
+2026-08-24 15:23:29.703 | INFO     | pytorch_engine:wrapper:25 - bắt đầu hàm compute_similarity trên thiết bị: CPU
+2026-08-24 15:23:29.706 | INFO     | pytorch_engine:wrapper:30 - hàm compute_similarity hoàn thành trong 0.002361 giây
+2026-08-24 15:23:30.819 | SUCCESS  | __main__:<module>:7 - đã lưu thành công vào None
+2026-08-24 15:24:46.305 | INFO     | pytorch_engine:wrapper:25 - bắt đầu hàm compute_similarity trên thiết bị: CPU
+2026-08-24 15:24:46.308 | INFO     | pytorch_engine:wrapper:30 - hàm compute_similarity hoàn thành trong 0.003000 giây
+2026-08-24 15:24:47.439 | SUCCESS  | __main__:<module>:7 - đã lưu thành công
