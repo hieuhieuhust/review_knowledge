@@ -1,0 +1,14 @@
+2026-08-28 18:36:52.434 | SUCCESS  | src.vector_store:__init__:20 - pytorch vectorstore sẵn sàng với 50
+2026-08-28 18:38:33.359 | SUCCESS  | src.vector_store:__init__:20 - pytorch vectorstore sẵn sàng với 50
+2026-08-28 18:38:53.009 | SUCCESS  | src.vector_store:__init__:20 - pytorch vectorstore sẵn sàng với 50
+2026-08-28 19:03:27.862 | SUCCESS  | src.vector_store:__init__:20 - pytorch vectorstore sẵn sàng với 50
+2026-08-28 19:04:16.266 | SUCCESS  | src.vector_store:__init__:20 - pytorch vectorstore sẵn sàng với 50
+2026-08-28 19:04:26.462 | SUCCESS  | src.vector_store:__init__:20 - pytorch vectorstore sẵn sàng với 50
+2026-08-28 19:04:30.148 | INFO     | src.decorates:wrapper:15 - bắt đầu thực thi: [ask_with_context]
+2026-08-28 19:04:30.502 | INFO     | src.decorates:wrapper:20 - hoàn  thành [ask_with_context] trong 0.3536 giây
+2026-08-28 19:06:44.274 | SUCCESS  | src.vector_store:__init__:20 - pytorch vectorstore sẵn sàng với 50
+2026-08-28 19:06:55.250 | SUCCESS  | src.vector_store:__init__:20 - pytorch vectorstore sẵn sàng với 50
+2026-08-28 19:07:02.342 | INFO     | src.decorates:wrapper:15 - bắt đầu thực thi: [ask_with_context]
+2026-08-28 19:07:02.658 | INFO     | src.decorates:wrapper:20 - hoàn  thành [ask_with_context] trong 0.3162 giây
+2026-08-28 19:07:41.127 | INFO     | src.decorates:wrapper:15 - bắt đầu thực thi: [ask_with_context]
+2026-08-28 19:07:41.410 | INFO     | src.decorates:wrapper:20 - hoàn  thành [ask_with_context] trong 0.2828 giây

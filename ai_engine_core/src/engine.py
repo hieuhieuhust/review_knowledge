@@ -7,7 +7,7 @@ from src.exceptions import emptyqueryerror
 from src.decorates import measure_async_latency, logger
 from src.vector_store import pytorchvectorstorage
 
-class asyncAIengine:
+class asyncAIChatengine:
     """bộ não AI chat engine kết hợp tìm kiếm pytorch và asyncio"""
     
     def __init__(self, config: agentconfig):

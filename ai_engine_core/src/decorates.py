@@ -12,7 +12,7 @@ def measure_async_latency(func):
     @wraps(func)
     async def wrapper(*args, **kwargs):
         start = time.perf_counter()
-        logger.infor(f"bắt đầu thực thi: [{func.__name__}]")
+        logger.info(f"bắt đầu thực thi: [{func.__name__}]")
         
         result = await func(*args, **kwargs)
         
