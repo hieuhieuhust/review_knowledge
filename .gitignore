@@ -10,3 +10,6 @@ venv/
 # sql
 # mới có mấy cái ko quan trọng lên đưa đại lên 
 
+# pycache
+__pycache__/
+*.pyc

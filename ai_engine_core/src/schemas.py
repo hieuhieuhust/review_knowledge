@@ -13,7 +13,7 @@ class agentconfig(BaseModel):
     agent_name: str = Field(default="enterprise assistant")
     model_name: str = Field(default="qwen-2.5-7b")
     temperature: float = Field(default=0.7, ge=0.0, le =2.0)
-    system_promt: str = Field(default="bạn là trợ lý AI chuyên nghiệp")
+    system_prompt: str = Field(default="bạn là trợ lý AI chuyên nghiệp")
     embedding_dim: int = Field(default=768)
     # mấy cái field nó có tác dụng thêm cho biến 1 số rule
     
