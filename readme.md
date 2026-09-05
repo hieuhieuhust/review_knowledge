@@ -1,1 +1,1 @@
-ôn lại mấy cái để cho nó đỡ quê khi đi phỏng vấn =))
+kiến thức tự ôn lại
