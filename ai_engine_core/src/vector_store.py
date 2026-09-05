@@ -34,7 +34,7 @@ class pytorchvectorstorage:
         results= []
     
         for score, idx in zip(top_scores.tolist(), top_indices.tolist()):
-            # zip kiểu đóng gói thành theo vị trí idx sau lưu vào results với 3 thuộc  tính 
+        # zip kiểu đóng gói thành cặp theo vị trí idx sau lưu vào results với 3 thuộc  tính 
             results.append(searchresultschema(
                 doc_id = idx,
                 score=round(score,4),

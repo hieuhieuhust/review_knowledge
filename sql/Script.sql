@@ -85,3 +85,4 @@ from nhan_vien;
 select ten, phongban, luong,
 	rank() over (partition by phongban order by luong desc) as xephanginphongban
 from nhan_vien;
+

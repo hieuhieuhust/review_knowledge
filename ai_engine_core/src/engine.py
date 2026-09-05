@@ -13,7 +13,7 @@ class asyncAIChatengine:
     def __init__(self, config: agentconfig):
         self.config = config
         self.history: list[messageschema] = [
-            messageschema(role="system", content= config.system_promt)
+            messageschema(role="system", content= config.system_prompt)
         ]
         self.vector_store = pytorchvectorstorage(dim=config.embedding_dim)
         
@@ -25,6 +25,7 @@ class asyncAIChatengine:
             raise emptyqueryerror("câu hỏi của bạn không được để trống")
         
         # thêm câu hỏi vào lịch sử chat
+        # tạo 1 object schemas rồi append cái object đó vào history
         self.history.append(messageschema(
             role="user",
             content=cleaned_query

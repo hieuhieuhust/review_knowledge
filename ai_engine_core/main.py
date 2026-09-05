@@ -1,18 +1,33 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse
+
+# import các router
 from src.api.v1.chat import router as chat_router
 from src.api.v1.search import router as search_router
+from src.api.v1.documents import router as doc_router
+from src.api.v1.auth import router as auth_router
 
 app = FastAPI(
     title="Enterprise AI Backend Platform",
     description="Hệ thống Backend AI Streaming & Vector Search chuẩn Microservices",
-    version="2.0.0"
+    version="2.1.0"
+)
+
+# thực hành cors middleware: cho phép mọi frontend kết nối vào
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"], # cho phép tất cả các nguồn domain
+    allow_credentials=True,
+    allow_methods=["*"], # cho phép tất cả phương thức get, post, put, delete
+    allow_headers=["*"] # cho phép tất cả các header
 )
 
 # 1. GẮN CÁC ROUTER VÀO VỚI TIỀN TỐ /api/v1
 app.include_router(chat_router, prefix="/api/v1")
 app.include_router(search_router, prefix="/api/v1")
-
+app.include_router(doc_router, prefix="/api/v1")
+app.include_router(auth_router, prefix="/app/v1")
 
 # 2. TRANG CHỦ GIAO DIỆN WEB CHAT
 @app.get("/", response_class=HTMLResponse, tags=["UI"])

@@ -32,3 +32,4 @@ class Base(DeclarativeBase):
 async def get_db() -> AsyncGenerator[AsyncSession, None]:
     async with AsyncSesssionLocal() as session:
         yield session
+        # nếu có nhiều yield trong 1 hàm  thì trả từng yield 1
